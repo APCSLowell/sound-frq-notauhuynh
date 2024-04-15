@@ -17,7 +17,7 @@ public class Sound
   {  
     int temp = 0; 
     for(int i = 0; i < samples.length(); i++){
-      if(samples[i] < limit*-1;){
+      if(samples[i] < limit*-1){
         samples[i] = limit * -1;
         temp++;
       }
