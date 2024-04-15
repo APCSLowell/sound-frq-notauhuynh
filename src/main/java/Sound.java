@@ -53,3 +53,4 @@ public class Sound
     }
     samples = tempList;
 }
+}
